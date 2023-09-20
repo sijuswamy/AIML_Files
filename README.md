@@ -15,3 +15,9 @@ Colab notebooks of AIML session for `Excelsior English School`
 Refer the video playlist
 
 <https://www.youtube.com/watch?v=aircAruvnKk>
+
+## About Prompt Engineering
+
+Want to learn about prompt engineering for Generative Pretrained Transformers, click the following link.
+
+<https://www.youtube.com/watch?v=nI8kS42-kr0&t=6s>
